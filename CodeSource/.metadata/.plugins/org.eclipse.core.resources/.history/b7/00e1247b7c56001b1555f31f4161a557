@@ -1,0 +1,5 @@
+package com.derbala.helpus.controllers;
+
+public class CategoryRestController {
+
+}

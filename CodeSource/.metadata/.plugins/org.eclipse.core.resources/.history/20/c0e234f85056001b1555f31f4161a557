@@ -1,0 +1,11 @@
+package com.derbala.helpus.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+import com.derbala.helpus.Entities.*;
+
+
+@Repository
+public interface IServiceDao extends JpaRepository <Service, Integer> {
+
+}

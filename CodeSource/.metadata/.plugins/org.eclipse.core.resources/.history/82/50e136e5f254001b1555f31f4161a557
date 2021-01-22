@@ -1,0 +1,12 @@
+package com.derbala.helpus.Entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table (name="Requeste_service_customer")
+public class RequestServiceCustomer {
+	
+	 	
+
+}

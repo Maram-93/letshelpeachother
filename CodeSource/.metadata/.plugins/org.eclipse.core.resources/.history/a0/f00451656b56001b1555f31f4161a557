@@ -1,0 +1,15 @@
+package com.derbala.helpus.services;
+
+import com.derbala.helpus.Entities.ProposeServiceCustomer;
+
+public interface IProposeServiceCustomerService {
+	
+	public ProposeServiceCustomer saveProposeServiceCustomer(ProposeServiceCustomer roposeServiceCustomer);
+	
+	public ProposeServiceCustomer updateProposeServiceCustomer(ProposeServiceCustomer roposeServiceCustomer);
+	
+	public void deleteProposeServiceCustomer(ProposeServiceCustomer roposeServiceCustomer);
+	
+	
+
+}

@@ -1,0 +1,68 @@
+package com.derbala.helpus.Entities;
+
+import java.util.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table (name="SERVICE")
+public class Service {
+	
+	
+	@Id
+	@GeneratedValue (strategy=GenerationType.AUTO)
+	private Integer id;
+	private String label;
+	private String code;
+	private Category category;
+	
+	public Service() {
+		super();
+			}
+	
+	public Service(Integer id, String label, String code, Integer categoryId) {
+		super();
+		this.id = id;
+		this.label = label;
+		this.code = code;
+		this.categoryId = categoryId;
+	}
+	
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
+	
+	@Column(name = "LABEL", nullable = false)
+	public String getLabel() {
+		return label;
+	}
+	public void setLabel(String label) {
+		this.label = label;
+	}
+	
+	@Column(name = "CODE", nullable = false)
+	public String getCode() {
+		return code;
+	}
+	public void setCode(String code) {
+		this.code = code;
+	}
+	@Column(name = "CATEGORY_ID", nullable = false)
+	public Integer getCategoryId() {
+		return categoryId;
+	}
+	public void setCategoryId(Integer categoryId) {
+		this.categoryId = categoryId;
+	}
+	
+	
+
+}

@@ -1,0 +1,18 @@
+package com.derbala.helpus.Entities;
+
+import java.util.Date;
+
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+public class customer {
+
+	@Id
+	@GeneratedValue
+	private long id;
+	private String login;
+	private String email;
+	private String job;
+	private Date creationDate;
+	
+}

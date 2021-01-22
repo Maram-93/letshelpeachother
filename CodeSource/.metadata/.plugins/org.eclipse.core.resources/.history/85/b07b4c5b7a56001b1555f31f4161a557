@@ -1,0 +1,33 @@
+package com.derbala.helpus.services;
+
+import java.util.List;
+
+import com.derbala.helpus.Entities.Service;
+
+public class ServiceServiceImpl implements IServiceService {
+
+	@Override
+	public Service saveService(Service service) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Service updateService(Service service) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteService(Service service) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<Service> getServicesByCategory(String categoryCode) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

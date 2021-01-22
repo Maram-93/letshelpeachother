@@ -1,0 +1,10 @@
+package com.derbala.helpus.Entities;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table (name="CATEGORY")
+public class category {
+
+}

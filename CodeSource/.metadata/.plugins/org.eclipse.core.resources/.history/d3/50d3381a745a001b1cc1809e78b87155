@@ -1,0 +1,25 @@
+package com.derbala.helpus.dto;
+
+import java.util.Date;
+
+public class CustomerDTO {
+
+	
+	private long id;
+	private String login;
+	private String email;
+	private String job;
+	private Date creationDate;
+	
+	public CustomerDTO() {
+		super();
+	}
+	public CustomerDTO(long id, String login, String email, String job, Date creationDate) {
+		super();
+		this.id = id;
+		this.login = login;
+		this.email = email;
+		this.job = job;
+		this.creationDate = creationDate;
+	}
+}

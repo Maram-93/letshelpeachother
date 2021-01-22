@@ -1,0 +1,89 @@
+2020-12-08 16:16:41,492 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-14 10:05:04,440 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-12 09:13:11,467 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-18 09:27:49,346 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-19 17:11:56,250 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-21 09:46:13,692 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-01-22 14:18:55,794 [Worker-73: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-22 14:19:21,153 [Worker-73: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.openclassrooms.ideinstall:basic-example:1.0.0-SNAPSHOT @ C:\Users\DERBAL\git\oc-install-ide-cours\pom.xml.
+2021-01-22 14:19:28,039 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:19:28,041 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\main\resources
+2021-01-22 14:19:28,048 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:19:28,050 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\test\resources
+2021-01-22 14:19:28,277 [Worker-73: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oc-install-ide-cours/src/main/java
+2021-01-22 14:19:28,281 [Worker-73: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oc-install-ide-cours/src/test/java
+2021-01-22 14:19:29,970 [Worker-73: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 34 sec
+2021-01-22 14:19:30,266 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:19:30,268 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\main\resources
+2021-01-22 14:19:30,269 [Worker-74: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:19:30,270 [Worker-74: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\test\resources
+2021-01-22 14:22:28,737 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:22:28,739 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\main\resources
+2021-01-22 14:22:28,741 [Worker-66: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:22:28,743 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\test\resources
+2021-01-22 14:53:13,078 [Worker-81: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:53:13,119 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\main\resources
+2021-01-22 14:53:13,125 [Worker-81: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 14:53:13,130 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-cours\src\test\resources
+2021-01-22 16:55:35,704 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-01-22 16:55:36,545 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.openclassrooms.ideinstall:quiz-example:1.0.0-SNAPSHOT @ C:\Users\DERBAL\git\oc-install-ide-quiz\pom.xml.
+2021-01-22 16:55:38,600 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o.pom
+2021-01-22 16:55:38,663 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o.pom
+2021-01-22 16:55:38,731 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scijava/pom-scijava/26.0.0/pom-scijava-26.0.0.pom
+2021-01-22 16:55:38,930 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scijava/pom-scijava/26.0.0/pom-scijava-26.0.0.pom
+2021-01-22 16:55:38,966 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scijava/pom-scijava-base/6.0.0/pom-scijava-base-6.0.0.pom
+2021-01-22 16:55:39,161 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scijava/pom-scijava-base/6.0.0/pom-scijava-base-6.0.0.pom
+2021-01-22 16:55:39,211 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.pom
+2021-01-22 16:55:39,339 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.pom
+2021-01-22 16:55:39,561 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o.jar
+2021-01-22 16:55:41,082 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o.jar
+2021-01-22 16:55:41,103 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.jar
+2021-01-22 16:55:41,371 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12.jar
+2021-01-22 16:55:43,552 [Worker-94: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oc-install-ide-quiz/src/main/java
+2021-01-22 16:55:43,552 [Worker-94: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /oc-install-ide-quiz/src/main/resources
+2021-01-22 16:55:43,555 [Worker-94: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /oc-install-ide-quiz/src/test/java
+2021-01-22 16:55:44,306 [Worker-94: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2021-01-22 16:55:44,554 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o-sources.jar
+2021-01-22 16:55:45,009 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 16:55:45,221 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 16:55:45,264 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 16:55:45,267 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 16:55:45,471 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/imagej/ij/1.52o/ij-1.52o-sources.jar
+2021-01-22 16:55:45,708 [Worker-95: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.imagej:ij:1.52o
+2021-01-22 16:55:45,737 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12-sources.jar
+2021-01-22 16:55:45,972 [Worker-95: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.12/commons-codec-1.12-sources.jar
+2021-01-22 16:55:46,190 [Worker-95: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.12
+2021-01-22 16:55:46,196 [Worker-95: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for net.imagej:ij:1.52o
+2021-01-22 16:55:46,201 [Worker-95: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.12
+2021-01-22 16:55:46,710 [Worker-103: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 16:55:46,714 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-01-22 16:55:46,716 [Worker-103: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 16:55:46,718 [Worker-103: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 17:00:22,737 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 17:00:22,770 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 17:00:22,773 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 17:00:22,774 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 17:01:51,793 [Worker-104: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 17:01:51,797 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 17:01:51,801 [Worker-104: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 17:01:51,802 [Worker-104: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 18:31:37,421 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:31:37,424 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 18:31:37,428 [Worker-95: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:31:37,429 [Worker-95: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 18:35:39,979 [Worker-108: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:35:39,984 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 18:35:39,988 [Worker-108: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:35:39,989 [Worker-108: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 18:36:00,733 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:36:00,736 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 18:36:00,740 [Worker-92: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:36:00,741 [Worker-92: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 18:58:46,174 [Worker-110: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:58:46,178 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 18:58:46,181 [Worker-110: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:58:46,183 [Worker-110: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources
+2021-01-22 18:59:07,466 [Worker-105: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:59:07,477 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2021-01-22 18:59:07,482 [Worker-105: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-22 18:59:07,483 [Worker-105: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\DERBAL\git\oc-install-ide-quiz\src\test\resources

@@ -1,0 +1,23 @@
+package com.derbala.helpus.Entities;
+
+import java.util.Date;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity
+@Table (name="CATEGORY")
+public class category {
+	
+	@Id
+	@GeneratedValue
+	private long id;
+	private String login;
+	private String email;
+	private String job;
+	private Date creationDate;
+	
+
+}

@@ -1,0 +1,5 @@
+package com.derbala.helpus.dto;
+
+public class CustomerDTO {
+
+}
